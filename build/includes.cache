@@ -1,0 +1,67 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\mega"
+  },
+  {
+    "Sourcefile": "c:\\Users\\Cris\\VSCode\\FirstFloorController\\build\\sketch\\FFController.ino.cpp",
+    "Include": "MySensors.h",
+    "Includepath": "C:\\Users\\Cris\\Documents\\Arduino\\libraries\\MySensors"
+  },
+  {
+    "Sourcefile": "c:\\Users\\Cris\\VSCode\\FirstFloorController\\build\\sketch\\FFController.ino.cpp",
+    "Include": "SPI.h",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\SPI\\src"
+  },
+  {
+    "Sourcefile": "c:\\Users\\Cris\\VSCode\\FirstFloorController\\build\\sketch\\FFController.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src"
+  },
+  {
+    "Sourcefile": "c:\\Users\\Cris\\VSCode\\FirstFloorController\\build\\sketch\\FFController.ino.cpp",
+    "Include": "Adafruit_MCP23017.h",
+    "Includepath": "C:\\Users\\Cris\\Documents\\Arduino\\libraries\\Adafruit_MCP23017"
+  },
+  {
+    "Sourcefile": "c:\\Users\\Cris\\VSCode\\FirstFloorController\\build\\sketch\\FFController.ino.cpp",
+    "Include": "Bounce2mcp.h",
+    "Includepath": "C:\\Users\\Cris\\Documents\\Arduino\\libraries\\Bounce2mcp-master"
+  },
+  {
+    "Sourcefile": "c:\\Users\\Cris\\VSCode\\FirstFloorController\\build\\sketch\\FFController.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\SPI\\src\\SPI.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src\\Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src\\utility\\twi.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Cris\\Documents\\Arduino\\libraries\\Adafruit_MCP23017\\Adafruit_MCP23017.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Cris\\Documents\\Arduino\\libraries\\Bounce2mcp-master\\Bounce2mcp.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
