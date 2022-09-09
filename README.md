@@ -1,2 +1,3 @@
 # FirstFloorController
-Home Automation Frirst Floor Controller 
+Home Automation First Floor Controller 
+Atmega2560
